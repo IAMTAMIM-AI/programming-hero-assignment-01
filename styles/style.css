@@ -264,3 +264,36 @@ button{
 button:hover {
   background-color: #4cae4c;
 }
+
+
+ /* footer styles */
+ .footer-container{
+  background-color: #e5e7ff;
+  height: 400px;
+ }
+ .footer-title{
+  font-weight: 900px;
+  font-size: 100px;
+  color: #4e47ff;
+  text-align: center;
+ }
+ footer ul li{
+  list-style: none;
+  gap: 20px;
+  
+ }
+ footer ul{
+  display: flex;
+  justify-content: center;
+   gap: 40px;
+   color: #25243277;
+   
+
+ }
+ footer p{
+  text-align: center;
+ }
+ footer div ul li a{
+  text-align: center;
+  
+ }
