@@ -136,3 +136,72 @@ main{
   color: #4e47ff;
   
 }
+
+ /* <!-- what section styles --!> */
+
+
+.users-say{
+    align-items: center;
+    font-size: 42px;
+    font-weight: 700px;
+    padding-left: 380px;
+    margin-top: 50px;
+   
+    
+}
+.card-container{
+  display: flex;
+  gap: 30px;
+  /* height: 500px; */
+} 
+ .card{
+  background-color: #fafcff;
+  height: 240px;
+  width: 310px;
+   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+ }
+
+.date{
+  color: #757575;
+}
+
+.avater-img{
+  height: 40px;
+  width: 40px;
+  border-radius: 60%;
+}
+
+.picture{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.card-description{
+  color: rgba(0, 0, 0, 0.815);
+}
+
+/* rady section styles */
+
+.rady-title{
+  font-size: 50px;
+  font: weight 700px; 
+ text-align: center;
+  
+}
+.rady-container{
+  height: 650px;
+  align-items: center;
+  padding: 0 150px;
+  text-align: center;
+}
+.rady-btn{
+  text-align: center;
+}
+.Ready-img{
+  border-radius: 45px;
+  margin-top: 30px;
+  
+
+}
